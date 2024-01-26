@@ -1,6 +1,6 @@
 import "./TeamJoke.scss";
 import PropTypes from "prop-types";
-import Blonde from "./JokeType/Blonde";
+
 
 import Dev from "./JokeType/Dev";
 import Global from "./JokeType/Global";
